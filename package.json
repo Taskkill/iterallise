@@ -1,0 +1,29 @@
+{
+  "name": "iterallise",
+  "version": "0.0.1",
+  "description": "Parallel asynchronous iterators.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taskkill/iterallise.git"
+  },
+  "keywords": [
+    "iterator",
+    "worker",
+    "parallelism",
+    "parallel",
+    "generator",
+    "asynchronous",
+    "non-blocking",
+    "promise"
+  ],
+  "author": "Taskkill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Taskkill/iterallise/issues"
+  },
+  "homepage": "https://github.com/Taskkill/iterallise#readme"
+}
